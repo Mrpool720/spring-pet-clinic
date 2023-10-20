@@ -4,8 +4,6 @@ import com.mrpool720.springpetclinic.model.Owner;
 import com.mrpool720.springpetclinic.model.Vet;
 import com.mrpool720.springpetclinic.services.OwnerService;
 import com.mrpool720.springpetclinic.services.VetService;
-import com.mrpool720.springpetclinic.services.map.OwnerServiceMap;
-import com.mrpool720.springpetclinic.services.map.VetServiceMap;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
