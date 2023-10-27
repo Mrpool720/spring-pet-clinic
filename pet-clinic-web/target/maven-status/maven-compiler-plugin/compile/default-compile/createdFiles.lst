@@ -1,1 +1,5 @@
+com\mrpool720\springpetclinic\controllers\VetController.class
+com\mrpool720\springpetclinic\bootstrap\DataLoader.class
 com\mrpool720\springpetclinic\SpringPetClinicApplication.class
+com\mrpool720\springpetclinic\controllers\IndexController.class
+com\mrpool720\springpetclinic\controllers\OwnerController.class
